@@ -20,7 +20,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Qoricoin client sofware, see http://www.qoricoin.org.
+the Qoricoin client sofware, see https://www.qoricoin.com.
 
 License
 -------
