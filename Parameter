@@ -1,0 +1,33 @@
+basics
+coin name: Qoricoin
+currency code: QRI
+address identifier byte: 0x7f
+testnet address identifier byte: 0x7e
+multisig address identifier byte: 0x7d
+testnet multisig address identifier byte: 0x7c
+TCP port: 9333
+testnet TCP port: 19333
+JSON-RPC TCP port: 9332
+testnet JSON-RPC TCP port: 19332
+
+money supply
+initial block reward: 50.0
+blocks until reward halves: 840000
+
+transactions
+blocks before mined coins can be spent: 100
+minimum sendable without dust fee: 0.01
+minimum sendable at all: 0.0001
+largest tx in bytes without size fee: 10000
+
+blockchain
+desired seconds between blocks: 150
+starting difficulty: 0.000244
+desired seconds to difficulty change: 302400
+miner-configurable limit on block size in bytes: 250000
+hard limit on block size in bytes: 1000000
+genesis block embedded message: Another CCTVRADIO GROUPS
+
+governance
+network alert signing pubkey: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+testnet alert signing pubkey: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
