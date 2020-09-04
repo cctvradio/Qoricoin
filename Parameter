@@ -1,6 +1,6 @@
 basics
 coin name: Qoricoin
-currency code: QRI
+currency code: QORI
 address identifier byte: 0x7f
 testnet address identifier byte: 0x7e
 multisig address identifier byte: 0x7d
